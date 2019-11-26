@@ -1,1 +1,1 @@
-This is a little css project
+This is a little css project of newbie
