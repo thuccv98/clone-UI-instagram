@@ -1,0 +1,16 @@
+body {
+	margin: 0px;
+	font-family: Arial, sans-serif;
+	background-color: #fafafa;
+}
+.content-project {
+	padding-top: 133px;
+	margin: 0 484px;
+}
+.wapper {
+	margin-right: 28px;
+	float: left;
+}
+.sidebar {
+	position: fixed;
+}

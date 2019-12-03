@@ -1,0 +1,90 @@
+
+.container {
+	width: 614px;
+	border: 1px solid #efefef;
+	margin-bottom: 60px;
+}
+
+.link-avatar {
+	padding: 0 10px;
+}
+.container .top .avatar {
+	width: 32px;
+	height: 32px;
+	background-image: url("https://loremflickr.com/100/100");
+	background-size: cover;
+	background-position: center;
+	border-radius: 50%;
+	border: 2px solid #eb5c4e;
+}
+.container {
+	background-color: #fff;
+}
+.container .top {
+	height: 60px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.container .top .name {
+	flex-grow: 1;
+}
+a {
+	color: #555;
+	text-decoration: none;
+	font-weight: bold;
+}
+.container .top .detail {
+	padding: 0 10px;
+}
+
+.container .mid {
+	width: 614px;
+	height: 766.92px;
+	background-image: url("https://loremflickr.com/640/800");
+}
+.container .bottom .pot1 {
+	width: 100%;
+	height: 40px;
+	display: flex;
+	flex-direction: row;
+	font-size: 24px;
+	align-items: center;
+}
+.container .bottom .pot1 .left-icon {
+	padding: 0 10px;
+}
+.container .bottom .pot1 .right-icon {
+	margin-left: 450px;
+}
+.container .bottom .pot2, .pot3, .pot4 {
+	margin-left: 10px;
+}
+.pot2 {
+	margin-bottom: 8px;
+}
+.sub-pot3 {
+	font-weight: bold;
+}
+.pot4 {
+	color: #999;
+	margin-bottom: 4px;
+}
+.pot5 {
+	margin-top: 4px;
+	height: 56px;
+	border-top: 1px solid #efefef; 
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 10px;
+	color: #999;
+}
+.sub-pot5 {
+	color: rgba(0, 0, 256, 0.3);
+}
+.sub-link {
+	color: #00f;
+	font-weight: normal;
+}
